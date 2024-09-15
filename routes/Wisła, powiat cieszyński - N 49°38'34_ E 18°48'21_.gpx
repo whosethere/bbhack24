@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.0" creator="Amistad" xmlns="http://www.topografix.com/GPX/1/0">
+<metadata>
+</metadata>
+	<trk>
+		<trkseg>
+			<trkpt lat="49.6492924" lon="18.8171339">
+				<ele>605</ele>
+			</trkpt>
+			<trkpt lat="49.6492473" lon="18.8161147">
+				<ele>625</ele>
+			</trkpt>
+			<trkpt lat="49.6490561" lon="18.8153905">
+				<ele>641</ele>
+			</trkpt>
+			<trkpt lat="49.6488652" lon="18.8149399">
+				<ele>668</ele>
+			</trkpt>
+			<trkpt lat="49.648306" lon="18.814559">
+				<ele>674</ele>
+			</trkpt>
+			<trkpt lat="49.6473439" lon="18.8143229">
+				<ele>691</ele>
+			</trkpt>
+			<trkpt lat="49.6472883" lon="18.8142157">
+				<ele>691</ele>
+			</trkpt>
+			<trkpt lat="49.6470243" lon="18.8141459">
+				<ele>712</ele>
+			</trkpt>
+			<trkpt lat="49.64661942500113" lon="18.814164516994364">
+				<ele>731</ele>
+			</trkpt>
+			<trkpt lat="49.6448568" lon="18.8140118">
+				<ele>755</ele>
+			</trkpt>
+			<trkpt lat="49.6434118" lon="18.8139957">
+				<ele>768</ele>
+			</trkpt>
+			<trkpt lat="49.6419355" lon="18.8138643">
+				<ele>781</ele>
+			</trkpt>
+			<trkpt lat="49.6416958" lon="18.8138375">
+				<ele>781</ele>
+			</trkpt>
+			<trkpt lat="49.6416482" lon="18.8138124">
+				<ele>777</ele>
+			</trkpt>
+			<trkpt lat="49.6418819" lon="18.8135961">
+				<ele>781</ele>
+			</trkpt>
+			<trkpt lat="49.6419027" lon="18.8135477">
+				<ele>781</ele>
+			</trkpt>
+			<trkpt lat="49.6418853" lon="18.8134887">
+				<ele>781</ele>
+			</trkpt>
+			<trkpt lat="49.6418193" lon="18.8134566">
+				<ele>781</ele>
+			</trkpt>
+			<trkpt lat="49.6415657" lon="18.8134726">
+				<ele>777</ele>
+			</trkpt>
+			<trkpt lat="49.6415241" lon="18.8134298">
+				<ele>777</ele>
+			</trkpt>
+			<trkpt lat="49.6417707" lon="18.8131723">
+				<ele>787</ele>
+			</trkpt>
+			<trkpt lat="49.6415379" lon="18.8131937">
+				<ele>787</ele>
+			</trkpt>
+			<trkpt lat="49.6415206" lon="18.8131454">
+				<ele>787</ele>
+			</trkpt>
+			<trkpt lat="49.6417012" lon="18.8129684">
+				<ele>787</ele>
+			</trkpt>
+			<trkpt lat="49.6417221" lon="18.812888">
+				<ele>787</ele>
+			</trkpt>
+			<trkpt lat="49.6416317" lon="18.8128504">
+				<ele>787</ele>
+			</trkpt>
+			<trkpt lat="49.6414511" lon="18.8128719">
+				<ele>787</ele>
+			</trkpt>
+			<trkpt lat="49.641267" lon="18.812786">
+				<ele>787</ele>
+			</trkpt>
+			<trkpt lat="49.6409697" lon="18.812778">
+				<ele>787</ele>
+			</trkpt>
+			<trkpt lat="49.6408717" lon="18.8127425">
+				<ele>787</ele>
+			</trkpt>
+			<trkpt lat="49.6401551" lon="18.8132179">
+				<ele>793</ele>
+			</trkpt>
+			<trkpt lat="49.6399971" lon="18.8133305">
+				<ele>800</ele>
+			</trkpt>
+			<trkpt lat="49.639941" lon="18.812812">
+				<ele>800</ele>
+			</trkpt>
+			<trkpt lat="49.639946" lon="18.812703">
+				<ele>800</ele>
+			</trkpt>
+			<trkpt lat="49.6399959" lon="18.812561">
+				<ele>800</ele>
+			</trkpt>
+			<trkpt lat="49.640352" lon="18.812145">
+				<ele>794</ele>
+			</trkpt>
+			<trkpt lat="49.641208" lon="18.810799">
+				<ele>787</ele>
+			</trkpt>
+			<trkpt lat="49.641559" lon="18.810412">
+				<ele>787</ele>
+			</trkpt>
+			<trkpt lat="49.641786" lon="18.810215">
+				<ele>768</ele>
+			</trkpt>
+			<trkpt lat="49.642841" lon="18.809469">
+				<ele>751</ele>
+			</trkpt>
+			<trkpt lat="49.643414" lon="18.808979">
+				<ele>734</ele>
+			</trkpt>
+			<trkpt lat="49.643955234661625" lon="18.808449096605923">
+				<ele>720.5</ele>
+			</trkpt>
+		</trkseg>
+	</trk>
+</gpx>
